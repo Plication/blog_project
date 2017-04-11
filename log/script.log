@@ -1,0 +1,6 @@
+2017-04-01 14:05:27,700 [Thread-3:15592] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-04-01 14:05:29,546 [Thread-5:15108] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-04-01 14:05:29,649 [Thread-6:15584] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-04-01 14:19:05,573 [Thread-3:14024] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-04-01 15:22:47,571 [Thread-3:11476] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-04-01 15:22:51,368 [Thread-5:3652] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
